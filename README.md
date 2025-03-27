@@ -22,7 +22,7 @@ Basic Overview
 
 ## Schematics & PCB Design
 
-- [Schematic Diagram](#MCU,SchDoc)
+- [Schematic Diagram](#MCU.SchDoc)
 - [PCB Layout](#)
 
 ## Troubleshooting
