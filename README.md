@@ -1,15 +1,15 @@
 # WB55 Board
 
-
 ## Overview
 
-Basic Overview
+Simple board designed with STM32WB55.
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Bluetooth
+- USB Serial
+- Buttons
+- Indicator LEDs
 
 ## Main Components
 
