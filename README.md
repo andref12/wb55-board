@@ -13,7 +13,7 @@ Simple board designed with STM32WB55.
 
 ## Main Components
 
-- Microcontroller/Processor: STM32WB55CCU6
+- Microcontroller: STM32WB55CCU6
 - Sensors/Modules: 
 - Power Requirements: 5V, xmA
 
