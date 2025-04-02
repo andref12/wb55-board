@@ -2,7 +2,7 @@
 
 ## Overview
 
-Simple board designed with STM32WB55.
+Simple Bluetooth board designed with STM32WB55.
 
 ## Features
 
