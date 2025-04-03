@@ -25,10 +25,3 @@ Simple Bluetooth board designed with STM32WB55.
 
 - [Schematic Diagram](MCU.SchDoc)
 - [PCB Layout](#)
-
-## Troubleshooting
-
-Common issues and solutions:
-
-- **Issue 1**: Solution
-- **Issue 2**: Solution
