@@ -1,19 +1,19 @@
 # WB55 Board
 
-
 ## Overview
 
-Basic Overview
+Simple Bluetooth board designed with STM32WB55.
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Bluetooth
+- USB Serial
+- Buttons
+- Indicator LEDs
 
 ## Main Components
 
-- Microcontroller/Processor: STM32WB55CCU6
+- Microcontroller: STM32WB55CCU6
 - Sensors/Modules: 
 - Power Requirements: 5V, xmA
 
@@ -25,10 +25,3 @@ Basic Overview
 
 - [Schematic Diagram](MCU.SchDoc)
 - [PCB Layout](#)
-
-## Troubleshooting
-
-Common issues and solutions:
-
-- **Issue 1**: Solution
-- **Issue 2**: Solution
