@@ -1,6 +1,5 @@
 # WB55 Board
 
-
 ## Overview
 
 Simple Bluetooth board designed with STM32WB55.
