@@ -1,6 +1,6 @@
 # WB55 Board
 
-<img width="1037" height="690" alt="image" src="https://github.com/user-attachments/assets/b14e5b66-55cd-420c-8ba4-50e018ea10ad" />
+<img width="1018" height="685" alt="image" src="https://github.com/user-attachments/assets/a5cb8328-0d22-48ec-afc1-f199445b5f3a" />
 
 ## Overview
 
