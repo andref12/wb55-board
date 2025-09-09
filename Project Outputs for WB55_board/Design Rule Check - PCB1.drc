@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\andre\Área de Trabalho\wb55-board\PCB1.PcbDoc
-Date     : 03/09/2025
-Time     : 17:33:52
+Date     : 08/09/2025
+Time     : 22:57:16
 
 Processing Rule : Clearance Constraint (Gap=0mm) (InComponent('R3')),(InComponent('R5'))
 Rule Violations :0
