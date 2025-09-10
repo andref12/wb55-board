@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Prototype
 
 [Preferences]
 PrefsVaultGUID=
@@ -173,7 +174,11 @@ UniqueId=823ff141-8249-40cb-955e-00124a4e22ae
 Description=Prototype
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=4
+Variation1=Designator=X2|UniqueId=\CLTKLJHW|Kind=1|AlternatePart=
+Variation2=Designator=R3|UniqueId=\VOCMXWPW|Kind=1|AlternatePart=
+Variation3=Designator=CN3|UniqueId=\ZARWQLSY|Kind=1|AlternatePart=
+Variation4=Designator=CN4|UniqueId=\SBVXQDWD|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
