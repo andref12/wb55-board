@@ -6,6 +6,8 @@
 
 Simple Bluetooth board designed with STM32WB55.
 
+NOTE: The design of this board prioritizes cost efficiency over RF performance. Normally the minumum number of layers recommended for a board with RF interfaces is 4.
+
 ## Features
 
 - Bluetooth
@@ -28,3 +30,4 @@ Simple Bluetooth board designed with STM32WB55.
 
 - [Schematic Diagram](MCU.SchDoc)
 - [PCB Layout](#)
+- [BOM]()
