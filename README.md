@@ -30,4 +30,4 @@ NOTE: The design of this board prioritizes cost efficiency over RF performance. 
 
 - [Schematic Diagram](MCU.SchDoc)
 - [PCB Layout](#)
-- [BOM](Project%Outputs%for%WB55_board/Output/BOM/Bill%of%Materials-WB55_board.xlsx)
+- [BOM](Project%20Outputs%20for%20WB55_board/Output/BOM/Bill%20of%20Materials-WB55_board.xlsx)
