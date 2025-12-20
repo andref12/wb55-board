@@ -15,6 +15,7 @@ NOTE: The design of this board prioritizes cost efficiency over RF performance. 
 - 2 x Buttons
 - 2 x Indicator LEDs
 - 1 x Analog Switch
+- 1 x UART
 
 ## Main Components
 
