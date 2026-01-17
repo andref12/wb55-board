@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=U2-3
+Change Component Description : Designator=CN4 Old Description=Header Connector, pcb Mount, plug, 6 Contacts, skt, 0.1 Pitch, pc Tail Terminal New Description=Header Connector, pcb Mount, plug, 6 Contacts, skt, 0.1 Pitch, pc Tail Terminal |Molex 90147-1306
+Change Component Description : Designator=U2 Old Description=Ldo, Fixed, 3.3V, 0.6A, -40 To 85Deg C Rohs Compliant: Yes New Description=Ldo, Fixed, 3.3V, 0.6A, -40 To 85Deg C Rohs Compliant: Yes |Diodes Inc. AP7366-33W5-7
+Change Component Description : Designator=D1 Old Description=Schottky Diode, Sngl, 30V, 0.2A, Sod-123 Rohs Compliant: Yes New Description=Schottky Diode, Sngl, 30V, 0.2A, Sod-123 Rohs Compliant: Yes |Nexperia BAT54GWJ
+Added Pin To Net: NetName=5V Pin=U2-3
